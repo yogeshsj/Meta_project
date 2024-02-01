@@ -1,0 +1,72 @@
+header {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  padding: 10px 20px;
+}
+.Title {
+  color: black;
+  font-size: 15px;
+}
+.button-conainer {
+  display: flex;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+.button {
+  margin-left: 10px;
+  padding: 10px 10px;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.button-Button {
+  border-color: blue;
+  color: blue;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.classcontainer {
+  margin-top: 65px;
+  display: block;
+  background-color: rgb(68, 127, 175);
+  text-align: center;
+  color: white;
+}
+.readbutton {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+.Classesinfo {
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 90%;
+  background-color: white;
+  padding: 10px 20px;
+}
+.back-to-top {
+  float: right;
+  text-decoration: none;
+  color: blue;
+}
+.copuright {
+  float: left;
+  color: grey;
+}
